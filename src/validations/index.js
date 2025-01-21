@@ -1,0 +1,1 @@
+module.exports.exchangeValidation = require('./exchange.validation');
